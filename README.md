@@ -1,6 +1,5 @@
 Custom Middleware for Django Redirect App
 =========================================
------------------------------------------
 
 Default [django redirect app middleware](https://github.com/django/django/blob/master/django/contrib/redirects/middleware.py) is not support url parameters. It will throw 404 error when URL have parameters.
 
